@@ -1,0 +1,27 @@
+{
+  "name": "aula_18",
+  "description": "AngularJS",
+  "main": "index.js",
+  "authors": [
+    "Marcus Soares <soares.marcus@aluno.ifsp.edu.br>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "DSWA5"
+  ],
+  "homepage": "https://github.com/Djarks/dswa5-18-ac-pt3009335",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/vendor"
+  ],
+  "dependencies": {
+    "angular": "1.7",
+    "angular-route": "1.3",
+    "bootstrap": "^4.4.1",
+    "angular-resource": "1.3"
+  }
+}
